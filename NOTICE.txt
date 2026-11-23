@@ -1,0 +1,15 @@
+Third-party notices
+
+Portions of this distribution are derived from dao-proxy-pro 9.9.319.
+Copyright 2026 道·AGI
+License declared by the upstream package: Apache License, Version 2.0.
+Upstream source reference recorded in the package:
+https://github.com/zhouyoukang1234-spec/windsurf-assistant
+
+The derived components have been modified for Xinghuo branding, routing,
+model configuration, compatibility, and usage reporting.
+Modifications Copyright 2026 星火 Davin 无限.
+
+The Apache License, Version 2.0 is provided in LICENSE.txt.
+These notices do not imply endorsement by the upstream authors or grant
+rights to third-party client software, models, trademarks, or services.
