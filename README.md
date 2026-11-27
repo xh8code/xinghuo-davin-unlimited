@@ -9,7 +9,7 @@
 - [下载最新版本](../../releases/latest)
 - [Gitee 发布渠道](https://gitee.com/jerrylinap/xinghuo-davin-unlimited/releases)
 
-1.9.45 及更早版本的客户端仍优先通过 Gitee 接收更新。
+当前最新：**v1.9.51**。1.9.50 及更早版本的客户端优先通过 Gitee 接收更新，1.9.51 起双渠道同步支持。
 
 ## 许可证与第三方声明
 
